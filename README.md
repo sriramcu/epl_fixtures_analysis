@@ -1,8 +1,9 @@
 # epl_fixtures_analysis
-A program to analyse EPL fixtures for the 2020-21 season. Contains features like printing all fixtures for a club, printing clashes between big clubs and tabular comparison of fixtures for multiple EPL clubs.
+A program to analyse EPL fixtures for the 2021-22 season. Contains features like printing all fixtures for a club, printing clashes between big clubs and tabular comparison of fixtures for multiple EPL clubs.
 
-**As of now, the program does not support multiple dates per gameweek, so all fixtures in a gameweek have been set to the same date in fixtures.txt. Do not depend on output for exact date and time of the match, which would be released by broadcasters only a month in advance. This program is meant to illustrate order of fixtures only.**
-
+**As of now, the program does not support multiple dates per gameweek, so all fixtures in a gameweek have been set to the same date in fixtures.txt. Do not depend on output for exact date and time of the match, which would be released by broadcasters only a month in advance. This program is meant to illustrate order of fixtures only.**  
+  
+**Note:All the outputs below, except for the picture, illustrate the program's output for the 20-21 season. For the 21-22 season, please refer to the picture or run the program on your local machine.**
 ## Usage  
 For comparison of fixtures between the 'Big Six':  
 ```console
